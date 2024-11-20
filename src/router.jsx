@@ -1,0 +1,63 @@
+CAFEA JURADO CREAM ESPECIAL 
+Weight: 1 kg
+Price: 350 lei
+
+CAFEA JURADO EXCELLENCE INTENSO 
+Weight: 1 kg
+Price: 400 lei
+
+CAFEA JURADO CREAM SELECCION 
+Weight: 1 kg
+Price: 400 lei
+
+CAFEA JURADO EXCELLENCE 100% ARABICA 
+Weight: 1 kg
+Price: 450 lei
+
+CAFEA KIMBO EXTRA CREAM
+Weight: 1 kg
+Price: 550 lei
+
+CAFEA KIMBO CREMA SUPREMA
+Weight: 1 kg
+Price: 560 lei
+
+CAFEA KIMBO UNIQUE
+Weight: 1 kg
+Price: 570 lei
+
+CAFEA KIMBO PRESTIGE 
+Weight: 1 kg
+Price: 590 lei
+
+Name: CAFEA GRAN CREMA MISCELAD'ORO 
+Weight: 1 kg
+Price: 500 lei
+
+CAFEA GRAND AROMA 1 KG MISCELAD ORO	 
+Weight: 1 kg
+Price: 550 lei
+
+CAFEA ESPRESSO NATURA MISCELAD ORO	 
+Weight: 1 kg
+Price: 650 lei
+
+CAFEA GRAN GOURMET MISCELAD'ORO 
+Weight: 1 kg
+Price: 650 lei
+
+CAFEA ROBUSTO MISCELAD'ORO 
+Weight: 1 kg
+Price: 450 lei
+
+CAFEA CARIBE 1 KG, MISCELAD'ORO	 
+Weight: 1 kg
+Price: 400 lei
+
+CAFEA CREMOSO 1 KG, MISCELAD'ORO	 
+Weight: 1 kg
+Price: 400 lei
+
+CAFEA INTENSO MISCELAD'ORO 
+Weight: 1 kg
+Price: 350 lei
